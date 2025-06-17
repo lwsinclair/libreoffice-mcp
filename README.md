@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/waterpistolai-libreoffice-mcp-badge.png)](https://mseep.ai/app/waterpistolai-libreoffice-mcp)
+
 # **LibreOffice MCP (WIP)**
 
 ### Explanation of the Refactor
